@@ -10,7 +10,13 @@ Given a review by a Customer we have to determine whether it belongs to Positive
 ![image](https://user-images.githubusercontent.com/61958476/116067998-558d3980-a6a7-11eb-9757-79062a3d330f.png)
 
 
-![image](https://user-images.githubusercontent.com/61958476/116068132-85d4d800-a6a7-11eb-944d-e56586439a3f.png)
+### Modelling: 
+
+#### 1.Decision Tree: A decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility. It is one way to display an algorithm that only contains conditional control statements.
+
+#### 2.Stochastic Gradient Descent: Stochastic Gradient Descent (SGD) classifier basically implements a plain SGD learning routine supporting various loss functions and penalties for classification. Scikit-learn provides SGD Classifier module to implement SGD classification.
+
+#### 3.Logistic Regression: Logistic Regression is used for binary as well as for multiclass classification. Where it uses sigmoid function to reduce cost function. In the multiclass case, the training algorithm uses the one-vs-rest (OvR) scheme. If the option chosen is ‘ovr’, then a binary problem is fit for each label.
 
 
 
