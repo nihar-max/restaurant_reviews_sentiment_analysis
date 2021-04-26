@@ -18,7 +18,21 @@ Given a review by a Customer we have to determine whether it belongs to Positive
 
 #### 3.Logistic Regression: Logistic Regression is used for binary as well as for multiclass classification. Where it uses sigmoid function to reduce cost function. In the multiclass case, the training algorithm uses the one-vs-rest (OvR) scheme. If the option chosen is ‘ovr’, then a binary problem is fit for each label.
 
+## Code snippets
+
+### Logistic Regression
+![image](https://user-images.githubusercontent.com/61958476/116068594-08f62e00-a6a8-11eb-83df-2c4428d5cf51.png)
+
+![image](https://user-images.githubusercontent.com/61958476/116068710-2a571a00-a6a8-11eb-86d6-dd27401ab545.png)
 
 
+![image](https://user-images.githubusercontent.com/61958476/116068925-6be7c500-a6a8-11eb-96d0-75bebd85500a.png)
+
+
+### Conclusion:
+Here Logistic Regressions gives good accuracy than Decision Tree and SGD classifier. So we will use Logistic Regression model as our model for Productionisation.
+
+
+### Glimpse of Final Output
 ![GIF](gif_review.gif)
 
