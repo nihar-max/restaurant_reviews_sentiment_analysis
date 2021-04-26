@@ -10,7 +10,9 @@ Given a review by a Customer we have to determine whether it belongs to Positive
 ![image](https://user-images.githubusercontent.com/61958476/116067998-558d3980-a6a7-11eb-9757-79062a3d330f.png)
 
 
+![image](https://user-images.githubusercontent.com/61958476/116068132-85d4d800-a6a7-11eb-944d-e56586439a3f.png)
 
-• A glimpse of the web app:
+
+
 ![GIF](gif_review.gif)
 
